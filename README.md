@@ -1,1 +1,2 @@
-# MinerGamev3
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
